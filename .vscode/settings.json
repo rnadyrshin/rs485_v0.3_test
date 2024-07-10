@@ -1,0 +1,8 @@
+{
+"C_Cpp.intelliSenseEngine": "default",
+"files.associations": {
+    "modbus_params.h": "c"
+},
+"idf.port": "/dev/cu.usbmodem1101",
+"idf.adapterTargetName": "esp32s3"
+}
